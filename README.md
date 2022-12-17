@@ -17,7 +17,7 @@ Este proyecto consiste en realizar y utilizar apis como lo son :
 
 Para iniciar el proyecto debes
 tener instalado python,django,visual studio code
-luego entrar a la carpeta app_blog y poner CMD en la url luego deber poner la siguiente linea ..\scripts\activate para activar el ambiente luego instalaras los requerimientos o librerias con la siguiente linea pip install -r requirements.txt el paso siguiente debes dar python manage.py runserver en el CMD te dara un link y tendras la siguiente vista
+luego entrar a la carpeta app_motos y poner CMD en la url luego deber poner la siguiente linea ..\scripts\activate para activar el ambiente luego instalaras los requerimientos o librerias con la siguiente linea pip install -r requirements.txt el paso siguiente debes dar python manage.py runserver en el CMD te dara un link y tendras la siguiente vista
 ![image](https://user-images.githubusercontent.com/101748327/208256850-49b344fa-1b23-4a2b-9133-cf7d01005c4f.png)
 lo siguiente que haremos sera poner el url /api/ 
 ![image](https://user-images.githubusercontent.com/101748327/208256879-5c2a790b-8260-47c6-9cea-bb207ac3f6bc.png)
